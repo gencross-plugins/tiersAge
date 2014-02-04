@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<entry key="genCross.plugin.name">TiersAgePerso</entry>
+	<entry key="genCross.plugin.className">com.mrprez.gencross.impl.tiersAge.TiersAgePerso</entry>
+	<entry key="genCross.plugin.gcrFileName">com/mrprez/gencross/impl/tiersAge/TiersAgePerso.gcr</entry>
+	<entry key="genCross.plugin.version">1.5</entry>
+	<entry key="genCross.plugin.appendixFileName">com/mrprez/gencross/impl/tiersAge/TiersAgePerso.properties</entry>
+	<entry key="genCross.plugin.migration.1.1">com.mrprez.gencross.impl.tiersAge.MigrationTo1_3</entry>
+	<entry key="genCross.plugin.migration.1.2">com.mrprez.gencross.impl.tiersAge.MigrationTo1_3</entry>
+	<entry key="genCross.plugin.migration.1.3">com.mrprez.gencross.impl.tiersAge.MigrationTo1_4</entry>
+	<entry key="genCross.plugin.migration.1.4">com.mrprez.gencross.impl.tiersAge.MigrationTo1_5</entry>
+</properties>
+
