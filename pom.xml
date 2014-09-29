@@ -5,7 +5,7 @@
 	<packaging>jar</packaging>
 	
 	<artifactId>tiersAge</artifactId>
-	<version>1.7</version>
+	<version>1.8-SNAPSHOT</version>
 	
 	<name>Tiers Age Custom</name>
 	
@@ -18,7 +18,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/gencross-plugins/tiersAge.git</connection>
 		<developerConnection>scm:git:git@github.com:gencross-plugins/tiersAge.git</developerConnection>
-		<tag>tiersAge-1.7</tag>
+		<tag>HEAD</tag>
 	</scm>
 	
 	
