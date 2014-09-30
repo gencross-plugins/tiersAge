@@ -4,7 +4,7 @@
 	<entry key="genCross.plugin.name">TiersAgePerso</entry>
 	<entry key="genCross.plugin.className">com.mrprez.gencross.impl.tiersAge.TiersAgePerso</entry>
 	<entry key="genCross.plugin.gcrFileName">com/mrprez/gencross/impl/tiersAge/TiersAgePerso.gcr</entry>
-	<entry key="genCross.plugin.version">1.7</entry>
+	<entry key="genCross.plugin.version">1.8</entry>
 	<entry key="genCross.plugin.appendixFileName">com/mrprez/gencross/impl/tiersAge/TiersAgePerso.properties</entry>
 	<entry key="genCross.plugin.migration.1.1">com.mrprez.gencross.impl.tiersAge.MigrationTo1_3</entry>
 	<entry key="genCross.plugin.migration.1.2">com.mrprez.gencross.impl.tiersAge.MigrationTo1_3</entry>
