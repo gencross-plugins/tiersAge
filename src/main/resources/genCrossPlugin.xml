@@ -12,5 +12,6 @@
 	<entry key="genCross.plugin.migration.1.4">com.mrprez.gencross.impl.tiersAge.MigrationTo1_5</entry>
 	<entry key="genCross.plugin.migration.1.5">com.mrprez.gencross.impl.tiersAge.MigrationTo1_6</entry>
 	<entry key="genCross.plugin.migration.1.6">com.mrprez.gencross.impl.tiersAge.MigrationTo1_7</entry>
+	<entry key="genCross.plugin.migration.1.7">com.mrprez.gencross.impl.tiersAge.MigrationTo1_8</entry>
 </properties>
 
